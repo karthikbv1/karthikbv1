@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 💬 **Ask Me About:** **Data Science**, **Python**, **Data Structures**, **EDA**, and **Machine Learning**—whether it's algorithms, solving complex problems, or working with real datasets!
 - 📫 **How to Reach Me:**
   - 📧 Email: krtkbv@gmail.com
-  - 💼 LinkedIn: [your LinkedIn]
+  - 💼 LinkedIn: [www.linkedin.com/in/karthik-vasanth-63540b279]
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love connecting with people from all walks of life—whether it's for a casual chat about cricket or brainstorming tech ideas.
 
