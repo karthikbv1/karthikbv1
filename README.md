@@ -1,5 +1,4 @@
 👋 Hey there, I'm Karthik B.V.
-(Replace this with your anime image URL)
 
 🚀 About Me
 🎓 Currently: MCA Student | Aspiring AI & ML Engineer
@@ -28,12 +27,10 @@ Cloud-based AI Deployments
 📢 Let's Connect!
 📧 Email: krtkbv@gmail.com
 💼 LinkedIn: Karthik B.V.
-🌐 Portfolio (Coming Soon! 🚀)
 
 📚 Tech Stack & Tools
 🔥 Languages: Python, SQL
 📊 Data & ML: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-🌍 Cloud & DevOps: AWS, Docker, Kubernetes
 🛠 Databases: MySQL, PostgreSQL
 
 📈 GitHub Stats & Activity
