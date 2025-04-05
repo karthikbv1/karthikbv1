@@ -39,19 +39,23 @@
 ### 💻 Tech Stack & Tools
 
 #### 🔥 Languages
+### 💻 Tech Stack & Tools
+
+#### 🔥 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 📊 Data & ML
+#### 📊 Data & ML Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-#### 🛠 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 🤖 AI Domain
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=marketo&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=brainly&logoColor=white)
+
 
 ---
 
