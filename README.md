@@ -1,36 +1,73 @@
-👋 Hey there, I'm Karthik B.V.
+<h1 align="center">Hey there 👋, I'm Karthik B.V.</h1>
+<h3 align="center">Aspiring AI/ML Engineer | MCA Student | Passionate about creating AI-driven solutions</h3>
 
-🚀 About Me
-🎓 Currently: MCA Student | Aspiring AI & ML Engineer
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI developer" width="500"/>
+</p>
 
-🔍 Exploring: Generative AI, MachineLearning, DeepLearning, and MYSQL
+---
 
-🧠 Passionate About: Machine Learning, Deep Learning, AI-driven solutions, and Big Data Analytics
+### 🚀 About Me
+- 🎓 Currently: MCA Student | Aspiring **AI & ML Engineer**
+- 🔍 Exploring: **Generative AI**, **Machine Learning**, **Deep Learning**, and **MySQL**
+- 🧠 Passionate About: **ML**, **DL**, **AI-driven solutions**, and **Big Data Analytics**
+- 🏏 Fun Fact: I’m a **cricket enthusiast** and love deep discussions about AI innovations!
 
-🏏 Fun Fact: I’m a cricket enthusiast and love deep discussions about AI innovations!
+---
 
-💡 What I'm Working On
-🔬 Current Project: Building a Human Emotion-Based Music Recommendation System using EEG signals 🎵🧠
-💻 Learning Focus:
+### 💡 What I'm Working On
+- 🔬 **Current Project**: Building a **Human Emotion-Based Music Recommendation System** using **EEG signals** 🎵🧠
+- 💻 **Learning Focus**:
+  - Data Science, Polynomial Regression, DBMS, SQL, Advanced Python
+  - Data Cleaning, Exploratory Data Analysis (EDA), and Large-Scale Data Processing
 
-Data Science, AI & ML, including Polynomial Regression, DBMS, SQL, and Advanced Python
+---
 
-Data Cleaning, Exploratory Data Analysis (EDA), and Large-Scale Data Processing
+### 🤝 Looking to Collaborate On
+- 🔍 AI/ML Projects  
+- 📊 Data Analytics & Visualization  
+- ☁️ Cloud-based AI Deployments  
 
-🤝 Looking to Collaborate On
-AI/ML Projects
+---
 
-Data Analytics & Visualization
+### 📧 Contact Me
+- ✉️ **Email**: [krtkbv@gmail.com](mailto:krtkbv@gmail.com)
+- 💼 **LinkedIn**: [Karthik B.V.](https://www.linkedin.com) <!-- replace with your actual LinkedIn URL -->
 
-Cloud-based AI Deployments
+---
 
-📢 Let's Connect!
-📧 Email: krtkbv@gmail.com
-💼 LinkedIn: Karthik B.V.
+### 💻 Tech Stack & Tools
 
-📚 Tech Stack & Tools
-🔥 Languages: Python, SQL
-📊 Data & ML: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-🛠 Databases: MySQL, PostgreSQL
+#### 🔥 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-📈 GitHub Stats & Activity
+#### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### 🛠 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikbv&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbv&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbv&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⚡ GitHub Contribution Graph
+[![Karthik's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=karthikbv&theme=react-dark&hide_border=true)](https://github.com/karthikbv)
+
+---
+
+### 🌟 Let’s Connect & Build Something Awesome!
+Let’s connect, collaborate, and build AI solutions that make a difference! 🚀
