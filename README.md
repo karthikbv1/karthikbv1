@@ -56,6 +56,10 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=marketo&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=brainly&logoColor=white)
 
+#### 🧠 CS Fundamentals
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00695C?style=for-the-badge&logo=codeforces&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-1976D2?style=for-the-badge&logo=algolia&logoColor=white)
+
 
 ---
 
