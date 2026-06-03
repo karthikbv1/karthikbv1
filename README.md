@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently: MCA Student | Aspiring **AI & ML Engineer**
+- 🎓 Currently: Backend Engineer at Zysk Technolgys also **AI & ML Engineer**
 - 🔍 Exploring: **Generative AI**, **Machine Learning**, **Deep Learning**, and **MySQL**
 - 🧠 Passionate About: **ML**, **DL**, **AI-driven solutions**, and **Big Data Analytics**
 - 🏏 Fun Fact: I’m a **cricket enthusiast** and love deep discussions about AI innovations!
